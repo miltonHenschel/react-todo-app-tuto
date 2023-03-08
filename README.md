@@ -5,6 +5,7 @@
   <br/>
 
   <h3><b>React Todo App</b></h3>
+-->
 
 </div>
 
@@ -16,7 +17,6 @@
    - [🛠 Built With](#built-with)
       - [Tech Stack](#tech-stack)
       - [Key Features](#key-features)
-
    - [🚀 Live Demo](#live-demo)
 
 - [💻 Getting Started](#getting-started)
@@ -68,13 +68,16 @@
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
+-->
 
 <!-- Features -->
 
 ### Key Features 
 
-- **Make simple calculations.**
-- **Read a random math-related quote.**
+- **Create todo list.**
+- **Rename todo list.**
+- **Update todo list.**
+- **Delete todo list.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,6 +89,7 @@
 
 <!--  
 - [Video presentation](https://www.loom.com/share/)
+-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,6 +227,7 @@ I would like to thank **![](https://img.shields.io/badge/Microverse-blueviolet).
 - **[Question_2]**
 
   - [Answer_2]
+  -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
