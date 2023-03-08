@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-todo-app-tuto/static/css/main.01bdbaaa.css",
+    "main.js": "/react-todo-app-tuto/static/js/main.ae3ad223.js",
+    "index.html": "/react-todo-app-tuto/index.html",
+    "main.01bdbaaa.css.map": "/react-todo-app-tuto/static/css/main.01bdbaaa.css.map",
+    "main.ae3ad223.js.map": "/react-todo-app-tuto/static/js/main.ae3ad223.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01bdbaaa.css",
+    "static/js/main.ae3ad223.js"
+  ]
+}
